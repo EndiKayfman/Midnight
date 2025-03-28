@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad6decfd3224734ba2b0f5cf36ff08a, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  displayName: Rock
+  icon: {fileID: 21300000, guid: b4017b319fe5bdd4582f460b89347173, type: 3}
+  flyingVisualPrefab: {fileID: 4486671805787783205, guid: ff2ff35c62b3c544cb2ea3e5d91ccae2, type: 3}
+  resourceColor: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 1}
